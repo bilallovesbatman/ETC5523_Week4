@@ -1,0 +1,16 @@
+{
+  "hash": "4780dd333f72f4a583a74e4f994f77b3",
+  "result": {
+    "markdown": "---\ntitle: \"Week 4 Tutorial\"\nformat: html\nimage: \"image.jpg\"\n---\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\nThe output above shows that the Adelie species has the shortest bill length compared the Chinstrap and the Gentoo species while Gentoo and Chinstrap have similar lengths. However, it should also be noted that the male peguins across the species typically have longer bills than the females. Moreover, there are a few outliers across the species but there is one interesting point is that amongst the Chinstrap species, there is one female penguin with the longst bill! We also observe that the Adelie and Gentoo species consist of a few missing values.\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

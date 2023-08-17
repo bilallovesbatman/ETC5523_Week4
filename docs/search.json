@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Batman Still Lives",
+    "section": "",
+    "text": "Week 4 Tutorial\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/the-bat-directory/index.html",
+    "href": "posts/the-bat-directory/index.html",
+    "title": "Week 4 Tutorial",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n\n\n\n\nThe output above shows that the Adelie species has the shortest bill length compared the Chinstrap and the Gentoo species while Gentoo and Chinstrap have similar lengths. However, it should also be noted that the male peguins across the species typically have longer bills than the females. Moreover, there are a few outliers across the species but there is one interesting point is that amongst the Chinstrap species, there is one female penguin with the longst bill! We also observe that the Adelie and Gentoo species consist of a few missing values."
+  },
+  {
+    "objectID": "posts/the-bat-directory/index.html#quarto",
+    "href": "posts/the-bat-directory/index.html#quarto",
+    "title": "Week 4 Tutorial",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n\n\n\n\nThe output above shows that the Adelie species has the shortest bill length compared the Chinstrap and the Gentoo species while Gentoo and Chinstrap have similar lengths. However, it should also be noted that the male peguins across the species typically have longer bills than the females. Moreover, there are a few outliers across the species but there is one interesting point is that amongst the Chinstrap species, there is one female penguin with the longst bill! We also observe that the Adelie and Gentoo species consist of a few missing values."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]

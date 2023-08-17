@@ -1,0 +1,32 @@
+---
+title: "Week 4 Tutorial"
+format: html
+image: "image.jpg"
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+library(palmerpenguins)
+library(tidyverse)
+library(ggbeeswarm)
+library(broom)
+library(nullabor)
+library(naniar)
+library(visdat)
+
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+ggplot(penguins, 
+       aes(x = species, 
+           y = bill_length_mm,
+           color = sex)) + geom_quasirandom()
+```
+
+The output above shows that the Adelie species has the shortest bill length compared the Chinstrap and the Gentoo species while Gentoo and Chinstrap have similar lengths. However, it should also be noted that the male peguins across the species typically have longer bills than the females. Moreover, there are a few outliers across the species but there is one interesting point is that amongst the Chinstrap species, there is one female penguin with the longst bill! We also observe that the Adelie and Gentoo species consist of a few missing values.
+
